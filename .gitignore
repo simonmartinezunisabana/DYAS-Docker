@@ -1,0 +1,10 @@
+# Datos de Redis generados por Docker Compose
+data/
+**/data/
+
+# Secretos locales
+.env
+
+# Python
+__pycache__/
+*.pyc
