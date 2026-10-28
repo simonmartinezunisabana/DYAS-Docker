@@ -8,3 +8,5 @@ data/
 # Python
 __pycache__/
 *.pyc
+
+DYAS-Docker.wiki/
